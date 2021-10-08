@@ -15,6 +15,7 @@
 > 3. [Cấu trúc dữ liệu và giải thuật kinh điển](https://drive.google.com/drive/folders/1YcUgdWSo9GjHm8j1644oPv5nUhj1tNKB?usp=sharing)
 > 4. [Cấu trúc dữ liệu và giải thuật-TDT](https://drive.google.com/drive/folders/1WHad8E9veuGBA4qItcOdZm1D5MG1ZiAr?usp=sharing)
 > 5. [Lập trình C++ hướng đối tượng](https://drive.google.com/drive/folders/1Rcv33dcrTuWPFz1yeHlxECNS4Crois4K?usp=sharing)
+> 6. [Làm chủ C/C++ trong 4 tuần](https://drive.google.com/drive/folders/1zMhdHqBWPu3KbXC0ANm8wnxHpu2GjVqZ?usp=sharing)
 
 ## ![icons8_c_sharp_logo_48px.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/23-23-50-44-icons8_c_sharp_logo_48px.png)Win-Form
 
