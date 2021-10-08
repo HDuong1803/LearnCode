@@ -111,6 +111,7 @@
 > 1. [Java cơ bản trong 4 tuần](https://drive.google.com/drive/folders/1nQTKHf8SDY_MbP-zeUUWElu2-XK8o-80?usp=sharing)
 > 2. [Java Spring MVC](https://drive.google.com/drive/folders/19vJFgr3ZeqV9ixrU-On5cSbkyFxZVcex?usp=sharing)
 > 3. [Nền tảng lập trình Java cho người mới bắt đầu](https://drive.google.com/drive/folders/1P31u3QFvXLGkrgb-Z-cN-AAAMVv5YMBT?usp=sharing)
+> 4. [Cốt lõi Java Web JSP-Servlet Core](https://drive.google.com/drive/folders/1HZFRZ3Hf8xKexCL8MFZdiNbsOC-4dbKS?usp=sharing)
 
 ## ![icons8-search_property.png](https://raw.githubusercontent.com/Zenfection/Image/master/2020/08/24-16-04-35-icons8-search_property.png) Tester
 
